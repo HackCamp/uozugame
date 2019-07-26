@@ -1,5 +1,5 @@
-# UOZU GAME BOOT CAMP
-2018年7月14日より、富山県魚津市にてゲームクリエイター養成開発メンタリング「UOZU GAME BOOT CAMP」というイベントを開催いたします。
+# UOZU GAME BOOT CAMP 2019
+2019年8月8日より、富山県魚津市にてゲームクリエイター養成開発メンタリング「UOZU GAME BOOT CAMP」というプログラムを開催いたします。
 
 [募集サイト](https://www.uozugame.com/)
 
